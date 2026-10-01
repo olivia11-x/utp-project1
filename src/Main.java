@@ -1,5 +1,7 @@
 //TODO: brakujace klasy!
 
+//ja dodam Adder a s35573 Subtractor
+
 public class Main {
     public static void main(String[] args) {
         Adder adder = new Adder();
